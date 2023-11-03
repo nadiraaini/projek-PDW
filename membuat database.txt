@@ -1,0 +1,15 @@
+Langkah 1: Pertama, Ekstrak file
+Langkah ke-2: Setelah itu, Salin folder proyek utama
+Langkah ke-3: Jadi, Anda perlu menempelkannya di xampp/htdocs/
+
+Selanjutnya Sekarang Menghubungkan Database
+
+Langkah ke-4: Jadi, untuk saat ini, Buka browser dan buka URL “http://localhost/phpmyadmin/”
+Langkah ke-5: Setelah itu, Klik pada tab database
+Langkah ke-6: Jadi, Buat database dengan nama “book_db” dan kemudian klik pada tab impor
+Langkah ke-7: Tentu saja, Klik pada isi file dan pilih file “book_db.sql” yang ada di dalam folder “db”
+Langkah ke-8: Sementara itu, klik tombol Go.
+
+Setelah Membuat Basis Data,
+
+Langkah ke-9: Selanjutnya, Buka browser dan buka URL “http://localhost/JALANYUK”
